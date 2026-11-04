@@ -1,0 +1,10 @@
+test_edges (test_search.SearchTests.test_edges) ... ok
+test_queens (test_search.SearchTests.test_queens) ... ok
+test_river (test_search.SearchTests.test_river) ... ok
+test_small_maps_exhaustive (test_search.SearchTests.test_small_maps_exhaustive) ... ok
+test_weighted (test_search.SearchTests.test_weighted) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.006s
+
+OK
